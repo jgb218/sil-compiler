@@ -1,0 +1,2 @@
+nasm -f elf64 -g myprog.asm
+gcc -g -o myprog myprog.o
